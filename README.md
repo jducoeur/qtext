@@ -1,3 +1,13 @@
+##About QText##
+
+QText is Querki's basic "markup" language. It is originally inspired by Markdown, although we expect it to diverge
+fairly quickly.
+
+The code for QText was originally based on the Actuarius library, from which this is forked. As it happens, we're
+just incorporating the QText code directly into Querki, rather than trying to keep it distinct: it is likely to
+become too Querki-specific to be terribly useful as an indepdendent project. So this tree is mainly for historical
+purposes, to mark the version of Actuarius that was originally forked from.
+
 ##About Actuarius##
 Actuarius is a Markdown Processor written in Scala using parser combinators. 
 
